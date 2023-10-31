@@ -63,3 +63,4 @@
 - **[@milwad](https://www.youtube.com/@milwad)**: 171 ‧ Milwad ‧ Founder of Binafy
 - **[@webmentor](https://www.youtube.com/@webmentor)**: 161 ‧ Lucas Antônio ‧ Founder of Webmentor
 - **[@laravelmagazine](https://www.youtube.com/@laravelmagazine)**: 72 ‧ Marian Pop ‧ Founder of Laravel Magazine
+- **[@Teachersdunet](https://www.youtube.com/@Teachersdunet)**: 112k ‧ LES TEACHERS DU NET
